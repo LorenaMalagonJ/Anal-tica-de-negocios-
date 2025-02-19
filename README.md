@@ -7,7 +7,7 @@ Taller de analítica de datos
 ##### Probando GibHub
 ###### Inteligencia de negocios, aplicaciones, datos
 
-##**Este es mi primer repositorio en GitHub**
+## **Este es mi primer repositorio en GitHub**
 
 
 *Administración de empresas*
