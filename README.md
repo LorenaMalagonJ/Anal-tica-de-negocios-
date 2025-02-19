@@ -1,2 +1,2 @@
-# Anal-tica-de-negocios-
+# Analitica-de-negocios-
 Taller de analítica de datos 
