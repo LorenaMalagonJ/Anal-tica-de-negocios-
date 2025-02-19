@@ -22,6 +22,6 @@ Taller de analítica de datos
 2. Segundo elemento de la lista
 3. Tercer elemento de la lista
    
-Link:[Universidad Externado de Colombia ](https://www.uexternado.edu.co/)
+[Universidad Externado de Colombia ](https://www.uexternado.edu.co/)
 ![image](https://github.com/user-attachments/assets/a8fbc964-42a5-416f-ad81-faba724b5395)
 
