@@ -14,13 +14,13 @@ Taller de analítica de datos
 
 * Herramientas de analítica 
 
-* Segundo elemento
+* Avances tecnológicos en el mundo de los negocios 
 
-* Tercer elemento
+* Más allá de la tecnología 
 
-1. Primer elemento de la lista
-2. Segundo elemento de la lista
-3. Tercer elemento de la lista
+1. La humanidad y la tecnología como un solo componente
+2. Los administradores debemos acoger la inteligencia artificial como una herramienta y no como una enemiga del oficio
+3. La esencia de transformarse es permitirse evolucionar a través de herramientas sustanciales
    
 [Universidad Externado de Colombia ](https://www.uexternado.edu.co/)
 ![image](https://github.com/user-attachments/assets/a8fbc964-42a5-416f-ad81-faba724b5395)
